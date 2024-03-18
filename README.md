@@ -1,6 +1,6 @@
-# Halo semua! 
+# Helo All! 
 
-Perkenalkan nama saya **Muhammad Abdul Aziz**.<br>
+Let me introduce my self, my name is **Muhammad Abdul Aziz**.<br>
 
 An independent Mobile Apps Developer who loves to create and share projects about Mobile Apps! I've enjoyed Kotlin and dart and make it the main language in creating a project.
 
