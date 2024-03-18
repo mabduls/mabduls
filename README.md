@@ -10,7 +10,6 @@ I'm currently active in contributing as Student Mobile Apps Developer at <a href
 - 🌱 I’m currently learning about *Mobile Apps Developer*
 - 💬 Feel free to ask me about *Dart* or *Kotlin*
 - 📫 How to reach me: abdabdulziza@gmail.com
-- ⚡ Fun fact: Father of a daughter
 
 ### Github Statistic
 <p align="left">
