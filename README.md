@@ -1,13 +1,13 @@
-# Helo All! 
+🚀 Passionate Full-Stack JavaScript Developer | 🎓 Informatics Undergraduate at Universitas Diponegoro
 
-Let me introduce myself, my name is Muhammad Abdul Aziz.<br>
+I’m a highly motivated Informatics student at Diponegoro University, deeply passionate about building responsive and scalable web applications using JavaScript technologies. Currently, I'm sharpening my skills in React, Node.js, and RESTful APIs through the Full Stack JavaScript Developer path at Coding Camp Powered by DBS Foundation.
 
-A passionate Fullstack Developer who loves to build and share projects related to web and mobile development! I specialize in JavaScript for both frontend and backend development.
+In addition, I’m an alumnus of Bangkit Academy 2024, a program supported by Google, GOTO, and Traveloka, where I specialized in Mobile Development using Kotlin, giving me strong fundamentals in clean architecture and performance optimization.
 
-I'm currently contributing to the Fullstack Developer Scholarship Program organized by <a href="https://github.com/dicodingacademy">@dicodingacademy</a> and DBS Foundation to enhance my expertise in fullstack development.
+I enjoy working with both frontend and backend stacks, with a particular interest in frontend technologies such as React.js, Next.js, Tailwind CSS, and ensuring seamless API integration. I also explore machine learning implementation in web apps using TensorFlow.js.
 
-- 🔭 I’m currently working on <a href="https://github.com/dicodingacademy">@dicodingacademy</a>
-- 🌱 I’m currently learning about Fullstack Development
-- 💬 Feel free to ask me about JavaScript (Frontend & Backend)
-- 📫 How to reach me: abdabdulziza@gmail.com
+🔐 I value writing secure, maintainable code and have a growing interest in web security. I'm continuously learning and excited to contribute to impactful tech projects.
 
+💼 Currently open to full-time opportunities in full-stack JavaScript roles, especially those involving React, Node.js, and RESTful APIs.
+
+Let’s connect!
